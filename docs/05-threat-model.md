@@ -1,5 +1,6 @@
 What are we protecting
 
+
 parent and guardian account data
 
 child profile data
@@ -17,6 +18,8 @@ audit logs
 role and permission assignments
 
 Who are we protecting from
+
+
 unauthorized external users
 
 malicious insiders
