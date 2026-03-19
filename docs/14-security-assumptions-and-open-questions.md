@@ -21,3 +21,12 @@ How long should audit logs be retained?
 What billing events must be immutable?
 
 Which roles can override attendance or enrollment actions?
+
+## Future Design Decisions
+
+- Define when identity verification is mandatory versus optional.
+- Decide which sensitive actions require stronger verification or approval.
+- Design the final QR token lifecycle, including expiration and replay protection.
+- Define which attendance and billing-related events must be immutable.
+- Set audit log retention, review, and access-control rules.
+- Clarify exception handling for disputed check-in, check-out, or payment events.
