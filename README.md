@@ -12,6 +12,20 @@ This project shows practical understanding of:
 - multi-tenant isolation
 - secure event workflows
 
+## What This Project Demonstrates
+
+system design thinking
+
+security architecture reasoning
+
+multi-tenant design awareness
+
+access control and trust boundary analysis
+
+auditability and event integrity thinking
+
+practical problem framing from a real-world family/institution workflow
+
 ## Security topics covered
 - Authentication
 - Authorization and RBAC
